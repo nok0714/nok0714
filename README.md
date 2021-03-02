@@ -14,4 +14,4 @@
 - 🔭 중학교를 재학중입니다.
 - 🌱 전 현재 파이썬, 웹, 자바스크립트 그리고 자바에 대해 공부하고 있어요!
 
-![header](https://capsule-render.vercel.app/api?type=wave&rotate=180&color=auto&height=300&section=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90)
