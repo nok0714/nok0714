@@ -13,3 +13,5 @@
 - 🎓 전 15살 이예요.
 - 🔭 중학교를 재학중입니다.
 - 🌱 전 현재 파이썬, 웹, 자바스크립트 그리고 자바에 대해 공부하고 있어요!
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=bottom&text=capsule%20render&fontSize=90)
